@@ -6,7 +6,7 @@ A real-world data engineering project built on **Databricks Free Edition**, simu
 
 ## 📌 Business Scenario
 
-A large retail company (parent) acquires a smaller sports nutrition company (child — Sports Bar). The goal is to build a unified data pipeline that consolidates historical data from both companies and ingests day-to-day transactional data from the child company into a single source of truth.
+A large retail company (parent - Atlikon) acquires a smaller sports nutrition company (child — Sports Bar). The goal is to build a unified data pipeline that consolidates historical data from both companies and ingests day-to-day transactional data from the child company into a single source of truth.
 
 ---
 
