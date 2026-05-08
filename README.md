@@ -51,7 +51,7 @@ Amazon S3 / Databricks Volumes
 ## 📂 Project Structure
 
 ```
-de_project_/
+repo/
 ├── parent_historical_data_transformation.ipynb
 ├── child_company_historical_data_transformation.ipynb
 ├── gold_validation_and_merge.ipynb
@@ -266,7 +266,7 @@ The dashboard connects directly to `vw_fact_orders_enriched` via the Databricks 
 
 ### Step 1 — Set up S3 bucket structure
 ```
-s3://de-project-child-company-data/
+s3://{bucket_name}/
 ├── customers/
 │   └── customers.csv
 ├── products/
@@ -280,7 +280,7 @@ s3://de-project-child-company-data/
 
 ### Step 2 — Set up Databricks Volumes
 ```
-/Volumes/de_project_/bronze/raw_historical_data_parent_company/
+/Volumes/{catalog}/bronze/raw_historical_data_parent_company/
 ├── dim_customers.csv
 ├── dim_gross_price.csv
 ├── dim_products.csv
@@ -301,7 +301,7 @@ Connect Power BI Desktop to `{catalog}.{gold_schema}.vw_fact_orders_enriched` us
 ## 📁 Catalog Structure
 
 ```
-de_project_ (catalog)
+(catalog)
 ├── bronze (schema)
 │   ├── customers_parent
 │   ├── products_parent
