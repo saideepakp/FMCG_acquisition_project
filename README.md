@@ -249,7 +249,7 @@ The dashboard connects directly to `vw_fact_orders_enriched` via the Databricks 
 ### Dashboard Screenshots
 
 > **Sales Overview**
-![Sales Overview Dashboard](Databricks\Screenshot 2026-05-08 090328.png)
+![Sales Overview Dashboard](sales_overview.png)
 *Replace with actual screenshot after dashboard is built*
 
 
