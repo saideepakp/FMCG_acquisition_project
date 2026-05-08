@@ -334,7 +334,11 @@ de_project_ (catalog)
 
 ## 👤 Author
 
-> Add your name and LinkedIn/GitHub profile here
+**Sai Deepak Poondla**
+Data Analyst | Power BI | SQL | Python | Tableau
+
+[LinkedIn](https://www.linkedin.com/in/sai-deepak-poondla-7143ba21a) | [Portfolio](https://saideepakp.github.io)
+
 
 ---
 
@@ -346,4 +350,4 @@ This project is open source and available for learning purposes.
 
 ## 📌 Disclaimer
 
-This project is made by reference from [Add original course/tutorial/resource link here]. All credit for the original concept, dataset design, and project structure goes to the respective creator(s). I do not claim any ownership or copyright over the original project idea or datasets. This repository is solely for learning and portfolio purposes.
+This project is made by reference from [CodeBasics](https://www.youtube.com/watch?v=U6ZUKWdfSLY&t=7703s). All credit for the original concept, dataset design, and project structure goes to the respective creator(s). I do not claim any ownership or copyright over the original project idea or datasets. This repository is solely for learning and portfolio purposes.
