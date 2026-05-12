@@ -350,4 +350,4 @@ This project is open source and available for learning purposes.
 
 ## 📌 Disclaimer
 
-This project is made by reference from [CodeBasics](https://www.youtube.com/watch?v=U6ZUKWdfSLY&t=7703s). All credit for the original concept, dataset design, and project structure goes to the respective creator(s). I do not claim any ownership or copyright over the original project idea or datasets. This repository is solely for learning and portfolio purposes.
+This project was built as a hands-on learning exercise, independently implemented and extended to explore medallion architecture, incremental pipeline design, and multi-source data consolidation on Databricks.
